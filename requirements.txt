@@ -1,0 +1,8 @@
+pyfiglet
+argparse
+openai
+python-dotenv
+tiktoken
+clint
+threading
+keyboard
